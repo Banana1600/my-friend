@@ -1,5 +1,5 @@
 #include <stdio.h>
 main()
 {
-printf("Hello,World\n");
+printf("Hello,นคร ศรีเกษม\n");
 }
